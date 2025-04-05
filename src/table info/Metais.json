@@ -1,0 +1,246 @@
+
+{
+    "alcalinos" : 
+    {
+        "li":
+            {
+                "símbolo": "Li",
+                "número_atômico": 3,
+                "massa_atômica": 6.94,
+                "configuração_eletrônica": "[He] 2s¹"
+            },
+
+        "na": 
+            {
+                "símbolo": "Na",
+                "número_atômico": 11,
+                "massa_atômica": 22.99,
+                "configuração_eletrônica": "[Ne] 3s¹"
+            },
+
+        "k": 
+            {
+                "símbolo": "K",
+                "número_atômico": 19,
+                "massa_atômica": 39.10,
+                "configuração_eletrônica": "[Ar] 4s¹"
+            },
+
+        "rb":
+            {
+                "símbolo": "Rb",
+                "número_atômico": 37,
+                "massa_atômica": 85.47,
+                "configuração_eletrônica": "[Kr] 5s¹"
+            },
+
+        "cs": 
+            {
+                "símbolo": "Cs",
+                "número_atômico": 55,
+                "massa_atômica": 132.91,
+                "configuração_eletrônica": "[Xe] 6s¹"
+            },
+
+        "fr": 
+            {
+                "símbolo": "Fr",
+                "número_atômico": 87,
+                "massa_atômica": 223,
+                "configuração_eletrônica": "[Rn] 7s¹"
+            }
+    },
+
+    "terrosos" : 
+    {
+        "be": 
+            {
+                "símbolo": "Be",
+                "número_atômico": 4,
+                "massa_atômica": 9.0122,
+                "configuração_eletrônica": "[He] 2s²"
+            },
+
+        "mg": 
+            {
+                "símbolo": "Mg",
+                "número_atômico": 12,
+                "massa_atômica": 24.305,
+                "configuração_eletrônica": "[Ne] 3s²"
+            },
+
+        "ca": 
+            {
+                "símbolo": "Ca",
+                "número_atômico": 20,
+                "massa_atômica": 40.078,
+                "configuração_eletrônica": "[Ar] 4s²"
+            },
+
+        "sr": 
+            {
+                "símbolo": "Sr",
+                "número_atômico": 38,
+                "massa_atômica": 87.62,
+                "configuração_eletrônica": "[Kr] 5s²"
+            },
+
+        "ba": 
+            {
+                "símbolo": "Ba",
+                "número_atômico": 56,
+                "massa_atômica": 137.33,
+                "configuração_eletrônica": "[Xe] 6s²"
+            },
+
+        "ra": 
+            {
+                "símbolo": "Ra",
+                "número_atômico": 88,
+                "massa_atômica": 226,
+                "configuração_eletrônica": "[Rn] 7s²"
+            }
+    },
+
+    "transicao": 
+    {
+        "sc": 
+            {
+                "símbolo": "Sc",
+                "número_atômico": 21,
+                "massa_atômica": 44.96,
+                "configuração_eletrônica": "[Ar] 3d¹ 4s²"
+            },
+
+        "ti": 
+            {       
+                "símbolo": "Ti",
+                "número_atômico": 22,
+                "massa_atômica": 47.87,
+                "configuração_eletrônica": "[Ar] 3d² 4s²"
+            },
+        "v": 
+            {
+                "símbolo": "V",
+                "número_atômico": 23,
+                "massa_atômica": 50.94,
+                "configuração_eletrônica": "[Ar] 3d³ 4s²"
+            },
+        "cr": 
+            {
+                "símbolo": "Cr",
+                "número_atômico": 24,
+                "massa_atômica": 51.996,
+                "configuração_eletrônica": "[Ar] 3d⁵ 4s¹"
+            },
+        "mn": 
+            {
+                "símbolo": "Mn",
+                "número_atômico": 25,
+                "massa_atômica": 54.938,
+                "configuração_eletrônica": "[Ar] 3d⁵ 4s²"
+            },
+        "fe": 
+            {
+                "símbolo": "Fe",
+                "número_atômico": 26,
+                "massa_atômica": 55.845,
+                "configuração_eletrônica": "[Ar] 3d⁶ 4s²"
+            },
+        "co": 
+            {
+                "símbolo": "Co",
+                "número_atômico": 27,
+                "massa_atômica": 58.933,
+                "configuração_eletrônica": "[Ar] 3d⁷ 4s²"
+            },
+        "ni": 
+            {
+                "símbolo": "Ni",
+                "número_atômico": 28,
+                "massa_atômica": 58.693,
+                "configuração_eletrônica": "[Ar] 3d⁸ 4s²"
+            },
+        "cu":
+            {
+                "símbolo": "Cu",
+                "número_atômico": 29,
+                "massa_atômica": 63.546,
+                "configuração_eletrônica": "[Ar] 3d¹⁰ 4s¹"
+            },
+        "zn": 
+            {
+                "símbolo": "Zn",
+                "número_atômico": 30,
+                "massa_atômica": 65.38,
+                "configuração_eletrônica": "[Ar] 3d¹⁰ 4s²"
+            }
+        }
+        ,
+    "postrasicao" : 
+    {
+        "al": 
+            {
+                "símbolo": "Al", 
+                "número_atômico": 13, 
+                "massa_atômica": 26.981, 
+                "configuração_eletrônica": "[Ne] 3s² 3p¹" 
+            },
+    
+        "ga": 
+            {
+                "símbolo": "Ga", 
+                "número_atômico": 31, 
+                "massa_atômica": 69.723, 
+                "configuração_eletrônica": "[Ar] 3d¹⁰ 4s² 4p¹" 
+            },
+    
+        "in": 
+            {
+                "símbolo": "In", 
+                "número_atômico": 49, 
+                "massa_atômica": 114.82, 
+                "configuração_eletrônica": "[Kr] 4d¹⁰ 5s² 5p¹" 
+            },
+    
+        "tl": 
+            {
+                "símbolo": "Tl", 
+                "número_atômico": 81, 
+                "massa_atômica": 204.38, 
+                "configuração_eletrônica": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p¹" 
+            },
+    
+        "sn": 
+            {
+                "símbolo": "Sn", 
+                "número_atômico": 50, 
+                "massa_atômica": 118.71, 
+                "configuração_eletrônica": "[Kr] 4d¹⁰ 5s² 5p²" 
+            },
+    
+        "pb": 
+            {
+                "símbolo": "Pb", 
+                "número_atômico": 82, 
+                "massa_atômica": 207.2, 
+                "configuração_eletrônica": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p²" 
+            },
+    
+        "bi": 
+            {
+                "símbolo": "Bi", 
+                "número_atômico": 83, 
+                "massa_atômica": 208.98, 
+                "configuração_eletrônica": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p³" 
+            },
+    
+        "po": 
+            {
+                "símbolo": "Po", 
+                "número_atômico": 84, 
+                "massa_atômica": 209, 
+                "configuração_eletrônica": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁴" 
+            }
+    }
+}

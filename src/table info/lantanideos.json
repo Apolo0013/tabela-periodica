@@ -1,0 +1,121 @@
+{
+    "la": 
+        {
+            "símbolo": "La", 
+            "número_atômico": 57, 
+            "massa_atômica": 138.91, 
+            "configuração_eletrônica": "[Xe] 5d¹ 6s²" 
+        },
+
+    "ce": 
+        {
+            "símbolo": "Ce", 
+            "número_atômico": 58, 
+            "massa_atômica": 140.12, 
+            "configuração_eletrônica": "[Xe] 4f¹ 5d¹ 6s²" 
+        },
+
+    "pr": 
+        {
+            "símbolo": "Pr", 
+            "número_atômico": 59, 
+            "massa_atômica": 140.91, 
+            "configuração_eletrônica": "[Xe] 4f³ 6s²" 
+        },
+
+    "nd": 
+        {
+            "símbolo": "Nd", 
+            "número_atômico": 60, 
+            "massa_atômica": 144.24, 
+            "configuração_eletrônica": "[Xe] 4f⁴ 6s²" 
+        },
+
+    "pm": 
+        {
+            "símbolo": "Pm", 
+            "número_atômico": 61, 
+            "massa_atômica": 145, 
+            "configuração_eletrônica": "[Xe] 4f⁵ 6s²" 
+        },
+
+    "sm": 
+        {
+            "símbolo": "Sm", 
+            "número_atômico": 62, 
+            "massa_atômica": 150.36, 
+            "configuração_eletrônica": "[Xe] 4f⁶ 6s²" 
+        },
+
+    "eu": 
+        {
+            "símbolo": "Eu", 
+            "número_atômico": 63, 
+            "massa_atômica": 151.96, 
+            "configuração_eletrônica": "[Xe] 4f⁷ 6s²" 
+        },
+
+    "gd": 
+        {
+            "símbolo": "Gd", 
+            "número_atômico": 64, 
+            "massa_atômica": 157.25, 
+            "configuração_eletrônica": "[Xe] 4f⁷ 5d¹ 6s²" 
+        },
+
+    "tb": 
+        {
+            "símbolo": "Tb", 
+            "número_atômico": 65, 
+            "massa_atômica": 158.93, 
+            "configuração_eletrônica": "[Xe] 4f⁹ 6s²" 
+        },
+
+    "dy": 
+        {
+            "símbolo": "Dy", 
+            "número_atômico": 66, 
+            "massa_atômica": 162.50, 
+            "configuração_eletrônica": "[Xe] 4f¹⁰ 6s²" 
+        },
+
+    "ho": 
+        {
+            "símbolo": "Ho", 
+            "número_atômico": 67, 
+            "massa_atômica": 164.93, 
+            "configuração_eletrônica": "[Xe] 4f¹¹ 6s²" 
+        },
+
+    "er": 
+        {
+            "símbolo": "Er", 
+            "número_atômico": 68, 
+            "massa_atômica": 167.26, 
+            "configuração_eletrônica": "[Xe] 4f¹² 6s²" 
+        },
+
+    "tm": 
+        {
+            "símbolo": "Tm", 
+            "número_atômico": 69, 
+            "massa_atômica": 168.93, 
+            "configuração_eletrônica": "[Xe] 4f¹³ 6s²" 
+        },
+
+    "yb": 
+        {
+            "símbolo": "Yb", 
+            "número_atômico": 70, 
+            "massa_atômica": 173.05, 
+            "configuração_eletrônica": "[Xe] 4f¹⁴ 6s²" 
+        },
+
+    "lu": 
+        {
+            "símbolo": "Lu", 
+            "número_atômico": 71, 
+            "massa_atômica": 174.97, 
+            "configuração_eletrônica": "[Xe] 4f¹⁴ 5d¹ 6s²" 
+        }
+}

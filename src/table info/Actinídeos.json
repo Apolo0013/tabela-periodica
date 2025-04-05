@@ -1,0 +1,121 @@
+{
+    "ac": 
+        {
+            "símbolo": "Ac", 
+            "número_atômico": 89, 
+            "massa_atômica": 227, 
+            "configuração_eletrônica": "[Rn] 6d¹ 7s²" 
+        },
+
+    "th": 
+        {
+            "símbolo": "Th", 
+            "número_atômico": 90, 
+            "massa_atômica": 232.04, 
+            "configuração_eletrônica": "[Rn] 6d² 7s²" 
+        },
+
+    "pa": 
+        {
+            "símbolo": "Pa", 
+            "número_atômico": 91, 
+            "massa_atômica": 231.04, 
+            "configuração_eletrônica": "[Rn] 5f² 6d¹ 7s²" 
+        },
+
+    "u": 
+        {
+            "símbolo": "U", 
+            "número_atômico": 92, 
+            "massa_atômica": 238.03, 
+            "configuração_eletrônica": "[Rn] 5f³ 6d¹ 7s²" 
+        },
+
+    "np": 
+        {
+            "símbolo": "Np", 
+            "número_atômico": 93, 
+            "massa_atômica": 237, 
+            "configuração_eletrônica": "[Rn] 5f⁴ 6d¹ 7s²" 
+        },
+
+    "pu": 
+        {
+            "símbolo": "Pu", 
+            "número_atômico": 94, 
+            "massa_atômica": 244, 
+            "configuração_eletrônica": "[Rn] 5f⁶ 7s²" 
+        },
+
+    "am": 
+        {
+            "símbolo": "Am", 
+            "número_atômico": 95, 
+            "massa_atômica": 243, 
+            "configuração_eletrônica": "[Rn] 5f⁷ 7s²" 
+        },
+
+    "cm": 
+        {
+            "símbolo": "Cm", 
+            "número_atômico": 96, 
+            "massa_atômica": 247, 
+            "configuração_eletrônica": "[Rn] 5f⁷ 6d¹ 7s²" 
+        },
+
+    "bk": 
+        {
+            "símbolo": "Bk", 
+            "número_atômico": 97, 
+            "massa_atômica": 247, 
+            "configuração_eletrônica": "[Rn] 5f⁹ 7s²" 
+        },
+
+    "cf": 
+        {
+            "símbolo": "Cf", 
+            "número_atômico": 98, 
+            "massa_atômica": 251, 
+            "configuração_eletrônica": "[Rn] 5f¹⁰ 7s²" 
+        },
+
+    "es": 
+        {
+            "símbolo": "Es", 
+            "número_atômico": 99, 
+            "massa_atômica": 252, 
+            "configuração_eletrônica": "[Rn] 5f¹¹ 7s²" 
+        },
+
+    "fm": 
+        {
+            "símbolo": "Fm", 
+            "número_atômico": 100, 
+            "massa_atômica": 257, 
+            "configuração_eletrônica": "[Rn] 5f¹² 7s²" 
+        },
+
+    "md": 
+        {
+            "símbolo": "Md", 
+            "número_atômico": 101, 
+            "massa_atômica": 258, 
+            "configuração_eletrônica": "[Rn] 5f¹³ 7s²" 
+        },
+
+    "no": 
+        {
+            "símbolo": "No", 
+            "número_atômico": 102, 
+            "massa_atômica": 259, 
+            "configuração_eletrônica": "[Rn] 5f¹⁴ 7s²" 
+        },
+
+    "lr": 
+        {
+            "símbolo": "Lr", 
+            "número_atômico": 103, 
+            "massa_atômica": 266, 
+            "configuração_eletrônica": "[Rn] 5f¹⁴ 7s² 7p¹" 
+        }
+}
