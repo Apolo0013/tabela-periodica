@@ -1,170 +1,148 @@
 {
-    "NoMetais" : 
-    {
-        "h": 
-            {
-                "símbolo": "H", 
-                "número_atômico": 1, 
-                "massa_atômica": 1.008, 
-                "configuração_eletrônica": "1s¹" 
-            },
-    
-        "c": 
-            {
-                "símbolo": "C", 
-                "número_atômico": 6, 
-                "massa_atômica": 12.011, 
-                "configuração_eletrônica": "[He] 2s² 2p²" 
-            },
-    
-        "n": 
-            {
-                "símbolo": "N", 
-                "número_atômico": 7, 
-                "massa_atômica": 14.007, 
-                "configuração_eletrônica": "[He] 2s² 2p³" 
-            },
-    
-        "o": 
-            {
-                "símbolo": "O", 
-                "número_atômico": 8, 
-                "massa_atômica": 15.999, 
-                "configuração_eletrônica": "[He] 2s² 2p⁴" 
-            },
-    
-        "p": 
-            {
-                "símbolo": "P", 
-                "número_atômico": 15, 
-                "massa_atômica": 30.974, 
-                "configuração_eletrônica": "[Ne] 3s² 3p³" 
-            },
-    
-        "s": 
-            {
-                "símbolo": "S", 
-                "número_atômico": 16, 
-                "massa_atômica": 32.06, 
-                "configuração_eletrônica": "[Ne] 3s² 3p⁴" 
-            },
-    
-        "se": 
-            {
-                "símbolo": "Se", 
-                "número_atômico": 34, 
-                "massa_atômica": 78.96, 
-                "configuração_eletrônica": "[Ar] 3d¹⁰ 4s² 4p⁴" 
-            }
-        
+    "NoMetais": {
+        "h": {
+        "nome": "Hidrogênio",
+        "símbolo": "H",
+        "número_atômico": 1,
+        "massa_atômica": 1.008,
+        "configuração_eletrônica": "1s¹"
+        },
+        "c": {
+        "nome": "Carbono",
+        "símbolo": "C",
+        "número_atômico": 6,
+        "massa_atômica": 12.011,
+        "configuração_eletrônica": "[He] 2s² 2p²"
+        },
+        "n": {
+        "nome": "Nitrogênio",
+        "símbolo": "N",
+        "número_atômico": 7,
+        "massa_atômica": 14.007,
+        "configuração_eletrônica": "[He] 2s² 2p³"
+        },
+        "o": {
+        "nome": "Oxigênio",
+        "símbolo": "O",
+        "número_atômico": 8,
+        "massa_atômica": 15.999,
+        "configuração_eletrônica": "[He] 2s² 2p⁴"
+        },
+        "p": {
+        "nome": "Fósforo",
+        "símbolo": "P",
+        "número_atômico": 15,
+        "massa_atômica": 30.974,
+        "configuração_eletrônica": "[Ne] 3s² 3p³"
+        },
+        "s": {
+        "nome": "Enxofre",
+        "símbolo": "S",
+        "número_atômico": 16,
+        "massa_atômica": 32.06,
+        "configuração_eletrônica": "[Ne] 3s² 3p⁴"
+        },
+        "se": {
+        "nome": "Selênio",
+        "símbolo": "Se",
+        "número_atômico": 34,
+        "massa_atômica": 78.96,
+        "configuração_eletrônica": "[Ar] 3d¹⁰ 4s² 4p⁴"
+        }
     },
-    "gasesnobre" : 
-    {
-        "he": 
-            {
-                "símbolo": "He", 
-                "número_atômico": 2, 
-                "massa_atômica": 4.0026, 
-                "configuração_eletrônica": "1s²" 
-            },
-    
-        "ne": 
-            {
-                "símbolo": "Ne", 
-                "número_atômico": 10, 
-                "massa_atômica": 20.180, 
-                "configuração_eletrônica": "[He] 2s² 2p⁶" 
-            },
-    
-        "ar": 
-            {
-                "símbolo": "Ar", 
-                "número_atômico": 18, 
-                "massa_atômica": 39.948, 
-                "configuração_eletrônica": "[Ne] 3s² 3p⁶" 
-            },
-    
-        "kr": 
-            {
-                "símbolo": "Kr", 
-                "número_atômico": 36, 
-                "massa_atômica": 83.798, 
-                "configuração_eletrônica": "[Ar] 3d¹⁰ 4s² 4p⁶" 
-            },
-    
-        "xe": 
-            {
-                "símbolo": "Xe", 
-                "número_atômico": 54, 
-                "massa_atômica": 131.29, 
-                "configuração_eletrônica": "[Kr] 4d¹⁰ 5s² 5p⁶" 
-            },
-    
-        "rn": 
-            {
-                "símbolo": "Rn", 
-                "número_atômico": 86, 
-                "massa_atômica": 222, 
-                "configuração_eletrônica": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁶" 
-            },
-    
-        "og": 
-            {
-                "símbolo": "Og", 
-                "número_atômico": 118, 
-                "massa_atômica": 294, 
-                "configuração_eletrônica": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶" 
-            }
+    "gasesnobre": {
+        "he": {
+        "nome": "Hélio",
+        "símbolo": "He",
+        "número_atômico": 2,
+        "massa_atômica": 4.0026,
+        "configuração_eletrônica": "1s²"
+        },
+        "ne": {
+        "nome": "Neônio",
+        "símbolo": "Ne",
+        "número_atômico": 10,
+        "massa_atômica": 20.180,
+        "configuração_eletrônica": "[He] 2s² 2p⁶"
+        },
+        "ar": {
+        "nome": "Argônio",
+        "símbolo": "Ar",
+        "número_atômico": 18,
+        "massa_atômica": 39.948,
+        "configuração_eletrônica": "[Ne] 3s² 3p⁶"
+        },
+        "kr": {
+        "nome": "Criptônio",
+        "símbolo": "Kr",
+        "número_atômico": 36,
+        "massa_atômica": 83.798,
+        "configuração_eletrônica": "[Ar] 3d¹⁰ 4s² 4p⁶"
+        },
+        "xe": {
+        "nome": "Xenônio",
+        "símbolo": "Xe",
+        "número_atômico": 54,
+        "massa_atômica": 131.29,
+        "configuração_eletrônica": "[Kr] 4d¹⁰ 5s² 5p⁶"
+        },
+        "rn": {
+        "nome": "Radônio",
+        "símbolo": "Rn",
+        "número_atômico": 86,
+        "massa_atômica": 222,
+        "configuração_eletrônica": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁶"
+        },
+        "og": {
+        "nome": "Oganessônio",
+        "símbolo": "Og",
+        "número_atômico": 118,
+        "massa_atômica": 294,
+        "configuração_eletrônica": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶"
+        }
+    },
+    "hologenio": {
+        "f": {
+        "nome": "Flúor",
+        "símbolo": "F",
+        "número_atômico": 9,
+        "massa_atômica": 18.998,
+        "configuração_eletrônica": "[He] 2s² 2p⁵"
+        },
+        "cl": {
+        "nome": "Cloro",
+        "símbolo": "Cl",
+        "número_atômico": 17,
+        "massa_atômica": 35.45,
+        "configuração_eletrônica": "[Ne] 3s² 3p⁵"
+        },
+        "br": {
+        "nome": "Bromo",
+        "símbolo": "Br",
+        "número_atômico": 35,
+        "massa_atômica": 79.904,
+        "configuração_eletrônica": "[Ar] 3d¹⁰ 4s² 4p⁵"
+        },
+        "i": {
+        "nome": "Iodo",
+        "símbolo": "I",
+        "número_atômico": 53,
+        "massa_atômica": 126.90,
+        "configuração_eletrônica": "[Kr] 4d¹⁰ 5s² 5p⁵"
+        },
+        "at": {
+        "nome": "Astato",
+        "símbolo": "At",
+        "número_atômico": 85,
+        "massa_atômica": 210,
+        "configuração_eletrônica": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁵"
+        },
+        "ts": {
+        "nome": "Tenessino",
+        "símbolo": "Ts",
+        "número_atômico": 117,
+        "massa_atômica": 294,
+        "configuração_eletrônica": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵"
+        }
     }
-    ,
-    "hologenio" : 
-    {
-        "f": 
-            {
-                "símbolo": "F", 
-                "número_atômico": 9, 
-                "massa_atômica": 18.998, 
-                "configuração_eletrônica": "[He] 2s² 2p⁵" 
-            },
-    
-        "cl": 
-            {
-                "símbolo": "Cl", 
-                "número_atômico": 17, 
-                "massa_atômica": 35.45, 
-                "configuração_eletrônica": "[Ne] 3s² 3p⁵" 
-            },
-    
-        "br": 
-            {
-                "símbolo": "Br", 
-                "número_atômico": 35, 
-                "massa_atômica": 79.904, 
-                "configuração_eletrônica": "[Ar] 3d¹⁰ 4s² 4p⁵" 
-            },
-    
-        "i": 
-            {
-                "símbolo": "I", 
-                "número_atômico": 53, 
-                "massa_atômica": 126.90, 
-                "configuração_eletrônica": "[Kr] 4d¹⁰ 5s² 5p⁵" 
-            },
-    
-        "at": 
-            {
-                "símbolo": "At", 
-                "número_atômico": 85, 
-                "massa_atômica": 210, 
-                "configuração_eletrônica": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁵" 
-            },
-    
-        "ts": 
-            {
-                "símbolo": "Ts", 
-                "número_atômico": 117, 
-                "massa_atômica": 294, 
-                "configuração_eletrônica": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵" 
-            }
-    }   
 }

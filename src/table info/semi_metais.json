@@ -1,57 +1,51 @@
 {
-    "b": 
-        {
-            "símbolo": "B", 
-            "número_atômico": 5, 
-            "massa_atômica": 10.81, 
-            "configuração_eletrônica": "[He] 2s² 2p¹" 
-        },
-
-    "si": 
-        {
-            "símbolo": "Si", 
-            "número_atômico": 14, 
-            "massa_atômica": 28.085, 
-            "configuração_eletrônica": "[Ne] 3s² 3p²" 
-        },
-
-    "ge": 
-        {
-            "símbolo": "Ge", 
-            "número_atômico": 32, 
-            "massa_atômica": 72.63, 
-            "configuração_eletrônica": "[Ar] 3d¹⁰ 4s² 4p²" 
-        },
-
-    "as": 
-        {
-            "símbolo": "As", 
-            "número_atômico": 33, 
-            "massa_atômica": 74.922, 
-            "configuração_eletrônica": "[Ar] 3d¹⁰ 4s² 4p³" 
-        },
-
-    "sb": 
-        {
-            "símbolo": "Sb", 
-            "número_atômico": 51, 
-            "massa_atômica": 121.76, 
-            "configuração_eletrônica": "[Kr] 4d¹⁰ 5s² 5p³" 
-        },
-
-    "te": 
-        {
-            "símbolo": "Te", 
-            "número_atômico": 52, 
-            "massa_atômica": 127.60, 
-            "configuração_eletrônica": "[Kr] 4d¹⁰ 5s² 5p⁴" 
-        },
-
-    "at": 
-        {
-            "símbolo": "At", 
-            "número_atômico": 85, 
-            "massa_atômica": 210, 
-            "configuração_eletrônica": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁵" 
-        }
+    "b": {
+    "nome": "Boro",
+    "símbolo": "B",
+    "número_atômico": 5,
+    "massa_atômica": 10.81,
+    "configuração_eletrônica": "[He] 2s² 2p¹"
+    },
+    "si": {
+    "nome": "Silício",
+    "símbolo": "Si",
+    "número_atômico": 14,
+    "massa_atômica": 28.085,
+    "configuração_eletrônica": "[Ne] 3s² 3p²"
+    },
+    "ge": {
+    "nome": "Germânio",
+    "símbolo": "Ge",
+    "número_atômico": 32,
+    "massa_atômica": 72.63,
+    "configuração_eletrônica": "[Ar] 3d¹⁰ 4s² 4p²"
+    },
+    "as": {
+    "nome": "Arsênio",
+    "símbolo": "As",
+    "número_atômico": 33,
+    "massa_atômica": 74.922,
+    "configuração_eletrônica": "[Ar] 3d¹⁰ 4s² 4p³"
+    },
+    "sb": {
+    "nome": "Antimônio",
+    "símbolo": "Sb",
+    "número_atômico": 51,
+    "massa_atômica": 121.76,
+    "configuração_eletrônica": "[Kr] 4d¹⁰ 5s² 5p³"
+    },
+    "te": {
+    "nome": "Telúrio",
+    "símbolo": "Te",
+    "número_atômico": 52,
+    "massa_atômica": 127.60,
+    "configuração_eletrônica": "[Kr] 4d¹⁰ 5s² 5p⁴"
+    },
+    "at": {
+    "nome": "Astato",
+    "símbolo": "At",
+    "número_atômico": 85,
+    "massa_atômica": 210,
+    "configuração_eletrônica": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁵"
+    }
 }

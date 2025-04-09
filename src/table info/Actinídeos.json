@@ -1,6 +1,7 @@
 {
     "ac": 
         {
+            "nome": "Actínio",
             "símbolo": "Ac", 
             "número_atômico": 89, 
             "massa_atômica": 227, 
@@ -9,6 +10,7 @@
 
     "th": 
         {
+            "nome": "Tório",
             "símbolo": "Th", 
             "número_atômico": 90, 
             "massa_atômica": 232.04, 
@@ -17,6 +19,7 @@
 
     "pa": 
         {
+            "nome": "Protactínio",
             "símbolo": "Pa", 
             "número_atômico": 91, 
             "massa_atômica": 231.04, 
@@ -25,6 +28,7 @@
 
     "u": 
         {
+            "nome": "Urânio",
             "símbolo": "U", 
             "número_atômico": 92, 
             "massa_atômica": 238.03, 
@@ -33,6 +37,7 @@
 
     "np": 
         {
+            "nome": "Neptúnio",
             "símbolo": "Np", 
             "número_atômico": 93, 
             "massa_atômica": 237, 
@@ -41,6 +46,7 @@
 
     "pu": 
         {
+            "nome": "Plutônio",
             "símbolo": "Pu", 
             "número_atômico": 94, 
             "massa_atômica": 244, 
@@ -49,6 +55,7 @@
 
     "am": 
         {
+            "nome": "Amerício",
             "símbolo": "Am", 
             "número_atômico": 95, 
             "massa_atômica": 243, 
@@ -57,6 +64,7 @@
 
     "cm": 
         {
+            "nome": "Cúrio",
             "símbolo": "Cm", 
             "número_atômico": 96, 
             "massa_atômica": 247, 
@@ -65,6 +73,7 @@
 
     "bk": 
         {
+            "nome": "Berquélio",
             "símbolo": "Bk", 
             "número_atômico": 97, 
             "massa_atômica": 247, 
@@ -73,6 +82,7 @@
 
     "cf": 
         {
+            "nome": "Califórnio",
             "símbolo": "Cf", 
             "número_atômico": 98, 
             "massa_atômica": 251, 
@@ -81,6 +91,7 @@
 
     "es": 
         {
+            "nome": "Einstênio",
             "símbolo": "Es", 
             "número_atômico": 99, 
             "massa_atômica": 252, 
@@ -89,6 +100,7 @@
 
     "fm": 
         {
+            "nome": "Férmio",
             "símbolo": "Fm", 
             "número_atômico": 100, 
             "massa_atômica": 257, 
@@ -97,6 +109,7 @@
 
     "md": 
         {
+            "nome": "Mendelévio",
             "símbolo": "Md", 
             "número_atômico": 101, 
             "massa_atômica": 258, 
@@ -105,6 +118,7 @@
 
     "no": 
         {
+            "nome": "Nobélio",
             "símbolo": "No", 
             "número_atômico": 102, 
             "massa_atômica": 259, 
@@ -113,6 +127,7 @@
 
     "lr": 
         {
+            "nome": "Laurêncio",
             "símbolo": "Lr", 
             "número_atômico": 103, 
             "massa_atômica": 266, 

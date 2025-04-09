@@ -1,0 +1,207 @@
+html {
+    font-size: 60px;
+}
+
+.BarConteiner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.Barinfo {
+    position: absolute;
+    width: 30%;
+    height: 100%;
+    min-width: 228px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    top: 0px;
+    left: 0px;
+    background: linear-gradient(-135deg, #2b2b2b, #32325e, #1e2a3a);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 15px;
+    color: #f1f1f1;
+    padding: 20px;
+    box-shadow: 5px 5px 15px 10px rgba(0, 0, 0, 0.286);
+    transform: translateX(-420px);
+    z-index: 10;
+} 
+
+.fecha {
+    position: absolute;
+    left: 80%;
+    top: 2%;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 50%;
+    padding: 4px !important;
+}
+
+.fecha:hover {
+    transform: scale(0.98);
+    background: rgba(255, 255, 255, 0.298);
+}
+
+.fecha:active {
+    transform: scale(1.05);
+    background: rgba(255, 255, 255, 0.555);
+}
+
+.left, .right {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 5px;
+    height: 80%;
+}
+
+.left {
+    transform: translate(-50%, -50%) rotate(-45deg);
+    background: rgb(205, 205, 205);
+}
+
+.right {
+    transform: translate(-50%, -50%) rotate(45deg);
+    background: #f1f1f1;
+}
+
+.show {
+    animation: show 0.3s linear 1 forwards;
+}
+
+/*a area de fechamento*/
+.CloseBarInfo {
+    position: relative;
+    opacity: 0;
+    z-index: 9;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(5px) brightness(0.8);
+}
+
+@keyframes show {
+    to {
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+
+@keyframes desshow {
+    50% {
+        opacity: 0;
+    }
+    90% {
+        transform: translateX(420px);
+    }
+}
+
+.divi {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    gap: 0px;
+}
+
+.divi > hr {
+    border: 1px solid #848484;
+    width: 90%;
+}
+
+.Barinfo > h2 {
+    width: 100%;
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.info {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.info > h3 {
+    text-align: start;
+    padding: 5px;
+    font-size: 0.5rem;
+}
+
+.info > abbr {
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+    user-select: none;
+}
+
+.info > abbr > p {
+    font-weight: bold;
+    font-size: 0.333rem;
+    text-align: center;
+
+}
+
+.info > abbr:hover {
+    color: rgb(214, 211, 211);
+    transform: scale(1.05) translateY(-2px);
+}
+
+.info > abbr:active {
+    transform: scale(0.99);
+    animation: Copy 0.2s ease-in-out 10 forwards;
+}
+
+@keyframes Copy {
+    from {color: rgb(42, 232, 42);}
+    to {color: white;}
+}
+
+.info:nth-child(3) {
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.info:nth-child(3) > abbr > p{
+    width: auto;
+}
+
+.info:nth-child(3) > abbr {
+    margin-left: 20%;
+    width: auto;
+}
+
+@media (max-width: 1110px) {
+    html {
+        font-size: 50px;
+    }
+}
+
+@media (max-width: 920px) {
+    html {
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 760px) {
+    html {
+        font-size: 35px;
+    }
+}

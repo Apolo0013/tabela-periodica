@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body, #root {
+    position: relative;
+    z-index: -1;
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+.tabela {
+    font-family: 'Inter', sans-serif;
+    position: relative;
+    z-index: -1;
+    width: 100%;
+    height: 100vh;
+    padding: 5px;
+    background: linear-gradient(135deg, #0f0f0f, #1a1a2e, #0d1b2a);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.Divisao1, .Divisao2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 2px;
+}
+.l1,
+.l2,
+.l3,
+.l4,
+.l5,
+.l6,
+.l7,
+.l8,
+.l9 {
+    display: flex;
+    gap: 2px;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.informacoes {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 600px;
+    height: 165px;
+    left: 140px;
+    background: #e0e0e067;
+    top: 3%;
+    z-index: 4;
+    padding: 10px;
+    padding-top: 3px;
+}
+
+.informacoes > h1 {
+    font-size: 0.6rem;
+    color: rgb(222, 239, 246);
+}
+
+.infocolor {
+    display: flex;
+    gap: 15px;
+    width: 100%;
+    font-size: 0.2rem;
+}
+
+.infocolor > ul {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    color: white;
+    font-size: 15px;
+    list-style: none;
+}
+
+.infocolor > ul > li::after  {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-color: #ff6600; /* cor do quadrado */
+    margin-right: 8px;
+    border-radius: 2px; /* opcional: bordas levemente arredondadas */
+    content: "";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-color: black; /* cor do quadrado */
+    border: 2px solid white;
+    margin-left: 8px;
+    border-radius: 2px; /* opcional: bordas levemente arredondadas */
+    vertical-align: middle;
+}
+
+/*add cores*/
+/*nao metal*/
+.infocolor > ul:nth-child(1) > li:nth-child(1)::after {
+    background: #ecf0f1;
+}
+
+/*gasnobre*/
+.infocolor > ul:nth-child(1) > li:nth-child(2)::after {
+    background: #00d8d6;
+}
+
+/*hologenio*/
+.infocolor > ul:nth-child(1) > li:nth-child(3)::after {
+    background: #32ff7e;
+}
+
+/*semi metais*/
+.infocolor > ul:nth-child(1) > li:nth-child(4)::after {
+    background: #9b59b6;
+}
+
+/*metal transicao*/
+.infocolor > ul:nth-child(1) > li:nth-child(5)::after {
+    background: #ff7043;
+}
+
+/*metal alcalino*/
+.infocolor > ul:nth-child(2) > li:nth-child(1)::after {
+    background: #ff4d6d;
+}
+
+/*metal terrosos*/
+.infocolor > ul:nth-child(2) > li:nth-child(2)::after {
+    background: #ffc300;
+}
+
+/*metal pos transicao*/
+.infocolor >  ul:nth-child(2) > li:nth-child(3)::after {
+    background: #ff7043;
+}
+
+/*lanta*/
+.infocolor > ul:nth-child(2) > li:nth-child(4)::after {
+    background: #4dabf7;
+}
+
+/*acti*/
+.infocolor > ul:nth-child(2) > li:nth-child(5)::after {
+    background: #d980fa;
+}
+
+@media (max-width: 1000px) {
+    .informacoes > h1 {
+        font-size: 30px;
+    }
+
+    .infocolor > ul {
+        font-size: 15px;
+    }
+}

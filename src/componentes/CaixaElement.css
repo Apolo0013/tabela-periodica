@@ -1,0 +1,115 @@
+:root {
+    /* Cores ajustadas para contraste equilibrado */
+    --cor-gas-nobre: #00d8d6;              /* Ciano mais fechado */
+    --cor-metal-alcalino: #ff4d6d;         /* Rosa escuro vibrante */
+    --cor-metal-alcalino-terroso: #ffc300; /* Amarelo ouro */
+    --cor-halogeno: #32ff7e;               /* Verde limão suave */
+    --cor-metal-transicao: #ff7043;        /* Laranja avermelhado */
+    --cor-semimetal: #9b59b6;              /* Roxo moderado */
+    --cor-nao-metal: #ecf0f1;              /* Cinza claro (quase branco) */
+    --cor-lantanideo: #4dabf7;             /* Azul claro com leve contraste */
+    --cor-actinideo: #d980fa;              /* Lilás intenso, mas não neon */
+}
+
+
+
+.caixa {
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    width: 60px;
+    height: 60px;
+    background: rgb(202, 202, 202);
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    gap: 0px;
+    padding: 3px;
+    position: relative;
+    cursor: pointer;
+    z-index: 3;
+    transition: 0.5s;
+}
+
+
+.caixa > h3, p {
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.caixa:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.129);
+}
+
+.caixa:active {
+    transform: scale(0.98);
+}
+
+.caixa > p {
+    font-size: 15px;
+    text-align: start;
+}
+
+.caixa > h3 {
+    font-weight: bolder;
+    font-size: 30px;
+    position: absolute;
+    left: 50%;
+    top: 55%;
+    transform: translate(-50%, -50%);
+}
+
+.none {
+    background: rgba(245, 245, 220, 0);
+    cursor: auto;
+}
+
+.none:active {
+    transform: none;
+}
+
+.none:hover {
+    transform: none;
+    box-shadow: none;
+}
+
+/*paletas*/
+/*Gas nobre*/
+.gasnobre {
+    background: var(--cor-gas-nobre);
+}
+
+.metal-al {
+    background: var(--cor-metal-alcalino);
+}
+
+.metal-al-trr {
+    background: var(--cor-metal-alcalino-terroso);
+}
+
+.halo {
+    background: var(--cor-halogeno);
+}
+
+.transicao {
+    background: var(--cor-metal-transicao);
+}
+
+.semi-metais {
+    background: var(--cor-semimetal);
+}
+
+.nao-metais {
+    background: var(--cor-nao-metal);
+}
+
+.lanta {
+    background: var(--cor-lantanideo);
+}
+
+.acti {
+    background: var(--cor-actinideo);
+}
