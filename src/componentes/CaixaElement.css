@@ -113,3 +113,50 @@
 .acti {
     background: var(--cor-actinideo);
 }
+
+/*1920x1080*/
+
+/*1366*/
+@media (max-width: 1366px) {
+    .caixa {
+        width: 65px;
+        height: 60px;
+    }
+}
+
+@media (min-width: 1440px) {
+    .caixa {
+        width: 77px;
+        height: 82px;
+    }
+
+    .caixa > p {
+        font-size: 20px;
+    }
+
+    .caixa > h3 {
+        font-size: 35px;
+    }
+}
+
+@media (min-width: 1536px) {
+    .caixa {
+        width: 82px;
+        height: 85px;
+    }
+}
+
+@media (min-width: 1920px) {
+    .caixa {
+        width: 103px;
+        height: 105px;
+    }
+
+    .caixa > p {
+        font-size: 30px;
+    }
+
+    .caixa > h3 {
+        font-size: 50px;
+    }
+}

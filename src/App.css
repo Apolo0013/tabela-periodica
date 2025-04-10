@@ -156,12 +156,63 @@ html, body, #root {
     background: #d980fa;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1370px) {
+    .informacoes {
+        gap: 10px;
+        left: 143px;
+        width: 660px;
+    }
+
     .informacoes > h1 {
         font-size: 30px;
     }
 
     .infocolor > ul {
         font-size: 15px;
+    }
+}
+
+@media (min-width: 1440px) {
+    .informacoes {
+        gap: 15px;
+        left: 170px;
+        width: 775px;
+        height: 225px;
+    }
+
+    .infocolor > ul {
+        font-size: 22px;
+    }
+}
+
+@media (min-width: 1536px) {
+    .informacoes {
+        left: 180px;
+        width: 825px;
+        height: 235px;
+    }
+
+    .infocolor > ul {
+        font-size: 25px;
+    }
+
+    .informacoes > h1 {
+        font-size: 45px;
+    }
+}
+
+@media (min-width: 1920px) {
+    .informacoes {
+        left: 225px;
+        width: 1030px;
+        height: 285px;
+    }
+
+    .informacoes > h1 {
+        font-size: 60px;
+    }
+
+    .infocolor > ul {
+        font-size: 30px;
     }
 }
