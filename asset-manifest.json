@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.02076f95.css",
-    "main.js": "/static/js/main.f3eb95c2.js",
-    "static/js/453.0cdbd17a.chunk.js": "/static/js/453.0cdbd17a.chunk.js",
-    "index.html": "/index.html",
-    "main.02076f95.css.map": "/static/css/main.02076f95.css.map",
-    "main.f3eb95c2.js.map": "/static/js/main.f3eb95c2.js.map",
-    "453.0cdbd17a.chunk.js.map": "/static/js/453.0cdbd17a.chunk.js.map"
+    "main.css": "/Apolo0013/tabela-periodica/static/css/main.02076f95.css",
+    "main.js": "/Apolo0013/tabela-periodica/static/js/main.a002bdcd.js",
+    "static/js/453.0cdbd17a.chunk.js": "/Apolo0013/tabela-periodica/static/js/453.0cdbd17a.chunk.js",
+    "index.html": "/Apolo0013/tabela-periodica/index.html",
+    "main.02076f95.css.map": "/Apolo0013/tabela-periodica/static/css/main.02076f95.css.map",
+    "main.a002bdcd.js.map": "/Apolo0013/tabela-periodica/static/js/main.a002bdcd.js.map",
+    "453.0cdbd17a.chunk.js.map": "/Apolo0013/tabela-periodica/static/js/453.0cdbd17a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02076f95.css",
-    "static/js/main.f3eb95c2.js"
+    "static/js/main.a002bdcd.js"
   ]
 }
