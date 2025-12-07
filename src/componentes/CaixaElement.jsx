@@ -46,7 +46,8 @@ function CaixaElemento(props) {
             nome: informa.nome,
             simbolo: informa.símbolo,
             numero_atomico: informa.número_atômico,
-            massa_atomica : informa.configuração_eletrônica
+            massa_atomica: informa.massa_atômica,
+            config: informa.configuração_eletrônica
         }
         SetNomeElement(informa.símbolo)
         SetNumAtomico(informa.número_atômico)

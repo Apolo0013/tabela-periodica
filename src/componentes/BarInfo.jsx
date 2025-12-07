@@ -8,6 +8,8 @@ function BarInfo(props) {
     const [numero] = useState(props.date.numero_atomico)
     const [config] = useState(props.date.config)
 
+    console.log(props.date)
+
     return (
         <div className="BarConteiner">
             <div className="Barinfo show">
