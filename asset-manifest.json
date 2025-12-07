@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tabela-periodica/static/css/main.02076f95.css",
-    "main.js": "/tabela-periodica/static/js/main.481d45e5.js",
+    "main.js": "/tabela-periodica/static/js/main.26e3d67f.js",
     "static/js/453.0cdbd17a.chunk.js": "/tabela-periodica/static/js/453.0cdbd17a.chunk.js",
     "index.html": "/tabela-periodica/index.html",
     "main.02076f95.css.map": "/tabela-periodica/static/css/main.02076f95.css.map",
-    "main.481d45e5.js.map": "/tabela-periodica/static/js/main.481d45e5.js.map",
+    "main.26e3d67f.js.map": "/tabela-periodica/static/js/main.26e3d67f.js.map",
     "453.0cdbd17a.chunk.js.map": "/tabela-periodica/static/js/453.0cdbd17a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02076f95.css",
-    "static/js/main.481d45e5.js"
+    "static/js/main.26e3d67f.js"
   ]
 }
